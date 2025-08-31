@@ -1,7 +1,11 @@
 # 📈 Stock Price Predictor (NSE) using LSTM
 
 Multi-Feature LSTM Stock Price Predictor (NSE)
-Welcome to the Multi-Feature LSTM Price Predictor — an advanced deep learning tool for forecasting the next-day Open, High, Low, Close, and Volume for any NSE-listed stock. <br>Powered by PyTorch and real-time data from Yahoo Finance, this project is designed for both researchers and traders.
+Welcome to the Multi-Feature LSTM Price Predictor — an advanced deep learning tool for forecasting the next-day Open, High, Low, Close, and Volume for any NSE-listed stock.
+
+<br>
+
+Powered by PyTorch and real-time data from Yahoo Finance, this project is designed for both researchers and traders.
 ---
 
 ## 🚀 Features
